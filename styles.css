@@ -1,0 +1,45 @@
+
+ #Home{
+     background-image:url("https://images.pexels.com/photos/735911/pexels-photo-735911.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+ background-size:cover;
+ height:1000px;
+ background-color: skyblue
+    }
+#Home p{font-size:50px;
+text-align:center;
+color:white;}
+ 
+
+#About{
+    font-size:20px;
+    padding-top:100px;
+   
+}
+nav>ul>li>a{color:white;
+font-size:20px;
+padding:40px;
+text-decoration: none;
+}
+nav>ul{text-align: right;
+}
+nav>ul>li{
+display:inline-block; 
+background-color:gray;
+padding:10px;
+
+}
+
+img{
+    height:300px;
+    border-radius: 40%;
+    margin-top:120px;
+    float: left;
+}
+#About>h1{
+    text-align: center;
+}
+#About p,h2{width:40%; 
+    text-align:center;
+}
+
+
