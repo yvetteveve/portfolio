@@ -47,6 +47,12 @@ img{
     color:red;
     text-align:center;
 }
+#Portfolio{text-align: center;
+    background-color: skyblue;
+              
+
+}
+
 #contact{padding-top:100px;
 color:red;
 background-color: rgb(39, 35, 35);}
@@ -55,5 +61,8 @@ text-decoration:underline;
 }
 #contact p{text-align:center;
 font-size:20px;}
+#About ul li{
+    list-style-type: none;
+}
 
 
